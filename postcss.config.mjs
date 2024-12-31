@@ -1,7 +1,6 @@
-// postcss.config.js
-module.exports = {
+// Correct ES module syntax
+export default {
   plugins: {
-    tailwindcss: {},
     autoprefixer: {},
   },
 };
