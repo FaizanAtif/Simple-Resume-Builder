@@ -1,6 +1,6 @@
 // pages/index.tsx
 "use client"
-import { useActionState, useState } from 'react';
+import { useState } from 'react';
 import ResumeForm from './components/resumeform';
 import ResumePreview from './components/resumePreview';
 import ExportButton from './components/exportButton';
